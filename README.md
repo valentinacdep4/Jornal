@@ -1,4 +1,4 @@
-# JornalExemplo de Documentação de Requisitos - Blog
+# Jornal Documentação de Requisitos 
 Introdução
 Esta documentação tem como objetivo explicar com detalhes o nosso projeto, o jornal. Explicar como escrevemos as reportagens a partir das esntrevistas que realizamos no campus da Unisinos, para assim podermos passar as informações com veracidade ao público, que é o que nosso Público-alvo espera.
 1. Visão Geral do Projeto
